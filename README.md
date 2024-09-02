@@ -17,6 +17,6 @@ Open a low-priv PowerShell (PS) and execute the script:
 .\RootCACheck.ps1
 
 # or via IEX into memory
-IEX(New-Object Net.WebClient).DownloadString("https://raw.githubusercontent.com/l4rm4nd/Windows-Root-CA-Store-Checker/main/RootCACheck.ps1")
+IEX(New-Object Net.WebClient).DownloadString("https://raw.githubusercontent.com/ptf-laurentvetter/Windows-Root-CA-Store-Checker/main/RootCACheck.ps1")
 ````
 ![image](https://github.com/user-attachments/assets/06f686f5-97f4-462e-b1bd-154a471614dc)
